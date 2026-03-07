@@ -1,0 +1,7 @@
+{
+    "mcpServers": {
+        "todoApp": {
+            "httpUrl": "http://localhost:54403"
+        }
+    }
+}
